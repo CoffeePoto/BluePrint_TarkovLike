@@ -10,6 +10,16 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "ThumbnailGenerator",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/43c213569ac94841b37d8bed1ab81ee5"
+		},
+		{
+			"Name": "ThumbnailExportManager",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/2fe2fd742da84dfe96a01a3029ab12e6"
 		}
 	]
 }
